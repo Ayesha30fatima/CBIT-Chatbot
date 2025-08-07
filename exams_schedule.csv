@@ -1,0 +1,53 @@
+Course,Branch,Year,Semester,Subject,Exam_Type,Date,Time,Venue,Max_Marks
+CSE101,Computer Science,1st Year,1st Semester,Introduction to Programming,Mid Term,1/15/2024,09:00-11:00,Hall A,50
+CSE102,Computer Science,1st Year,1st Semester,Digital Logic,End Term,1/20/2024,14:00-17:00,Hall B,100
+ECE101,Electronics,1st Year,1st Semester,Basic Electronics,Mid Term,1/16/2024,09:00-11:00,Hall C,50
+ECE102,Electronics,1st Year,1st Semester,Circuit Theory,End Term,1/21/2024,14:00-17:00,Hall A,100
+ME101,Mechanical,1st Year,1st Semester,Engineering Mechanics,Mid Term,1/17/2024,09:00-11:00,Hall B,50
+CSE201,Computer Science,1st Year,2nd Semester,Data Structures,Mid Term,6/15/2024,09:00-11:00,Hall A,50
+CSE202,Computer Science,1st Year,2nd Semester,Computer Architecture,End Term,6/20/2024,14:00-17:00,Hall B,100
+ECE201,Electronics,1st Year,2nd Semester,Analog Electronics,Mid Term,6/16/2024,09:00-11:00,Hall C,50
+ECE202,Electronics,1st Year,2nd Semester,Signals and Systems,End Term,6/21/2024,14:00-17:00,Hall A,100
+ME201,Mechanical,1st Year,2nd Semester,Thermodynamics,Mid Term,6/17/2024,09:00-11:00,Hall B,50
+CSE301,Computer Science,2nd Year,3rd Semester,Operating Systems,Mid Term,1/15/2024,09:00-11:00,Hall D,50
+CSE302,Computer Science,2nd Year,3rd Semester,Database Systems,End Term,1/20/2024,14:00-17:00,Hall E,100
+ECE301,Electronics,2nd Year,3rd Semester,Digital Electronics,Mid Term,1/16/2024,09:00-11:00,Hall F,50
+ECE302,Electronics,2nd Year,3rd Semester,Communication Systems,End Term,1/21/2024,14:00-17:00,Hall D,100
+ME301,Mechanical,2nd Year,3rd Semester,Fluid Mechanics,Mid Term,1/17/2024,09:00-11:00,Hall E,50
+CSE401,Computer Science,2nd Year,4th Semester,Computer Networks,Mid Term,6/15/2024,09:00-11:00,Hall D,50
+CSE402,Computer Science,2nd Year,4th Semester,Software Engineering,End Term,6/20/2024,14:00-17:00,Hall E,100
+ECE401,Electronics,2nd Year,4th Semester,Microprocessors,Mid Term,6/16/2024,09:00-11:00,Hall F,50
+ECE402,Electronics,2nd Year,4th Semester,Control Systems,End Term,6/21/2024,14:00-17:00,Hall D,100
+ME401,Mechanical,2nd Year,4th Semester,Machine Design,Mid Term,6/17/2024,09:00-11:00,Hall E,50
+CSE501,Computer Science,3rd Year,5th Semester,Artificial Intelligence,Mid Term,1/15/2024,09:00-11:00,Hall G,50
+CSE502,Computer Science,3rd Year,5th Semester,Web Technologies,End Term,1/20/2024,14:00-17:00,Hall H,100
+ECE501,Electronics,3rd Year,5th Semester,VLSI Design,Mid Term,1/16/2024,09:00-11:00,Hall I,50
+ECE502,Electronics,3rd Year,5th Semester,Digital Signal Processing,End Term,1/21/2024,14:00-17:00,Hall G,100
+ME501,Mechanical,3rd Year,5th Semester,Heat Transfer,Mid Term,1/17/2024,09:00-11:00,Hall H,50
+CSE601,Computer Science,3rd Year,6th Semester,Cloud Computing,Mid Term,6/15/2024,09:00-11:00,Hall G,50
+CSE602,Computer Science,3rd Year,6th Semester,Machine Learning,End Term,6/20/2024,14:00-17:00,Hall H,100
+ECE601,Electronics,3rd Year,6th Semester,Embedded Systems,Mid Term,6/16/2024,09:00-11:00,Hall I,50
+ECE602,Electronics,3rd Year,6th Semester,Wireless Communications,End Term,6/21/2024,14:00-17:00,Hall G,100
+ME601,Mechanical,3rd Year,6th Semester,Robotics,Mid Term,6/17/2024,09:00-11:00,Hall H,50
+CSE701,Computer Science,4th Year,7th Semester,Cybersecurity,Mid Term,1/15/2024,09:00-11:00,Hall J,50
+CSE702,Computer Science,4th Year,7th Semester,Big Data Analytics,End Term,1/20/2024,14:00-17:00,Hall K,100
+ECE701,Electronics,4th Year,7th Semester,IoT Systems,Mid Term,1/16/2024,09:00-11:00,Hall L,50
+ECE702,Electronics,4th Year,7th Semester,Satellite Communications,End Term,1/21/2024,14:00-17:00,Hall J,100
+ME701,Mechanical,4th Year,7th Semester,Industrial Automation,Mid Term,1/17/2024,09:00-11:00,Hall K,50
+CSE801,Computer Science,4th Year,8th Semester,Deep Learning,Mid Term,6/15/2024,09:00-11:00,Hall J,50
+CSE802,Computer Science,4th Year,8th Semester,Blockchain Technology,End Term,6/20/2024,14:00-17:00,Hall K,100
+ECE801,Electronics,4th Year,8th Semester,5G Technologies,Mid Term,6/16/2024,09:00-11:00,Hall L,50
+ECE802,Electronics,4th Year,8th Semester,Quantum Computing,End Term,6/21/2024,14:00-17:00,Hall J,100
+ME801,Mechanical,4th Year,8th Semester,Smart Manufacturing,Mid Term,6/17/2024,09:00-11:00,Hall K,50
+CSE103,Computer Science,1st Year,1st Semester,Mathematics-I,End Term,1/22/2024,09:00-12:00,Hall A,100
+ECE103,Electronics,1st Year,1st Semester,Physics,End Term,1/23/2024,09:00-12:00,Hall B,100
+ME102,Mechanical,1st Year,1st Semester,Engineering Drawing,End Term,1/24/2024,09:00-12:00,Hall C,100
+CSE203,Computer Science,1st Year,2nd Semester,Mathematics-II,End Term,6/22/2024,09:00-12:00,Hall A,100
+ECE203,Electronics,1st Year,2nd Semester,Chemistry,End Term,6/23/2024,09:00-12:00,Hall B,100
+ME202,Mechanical,1st Year,2nd Semester,Workshop Practice,End Term,6/24/2024,09:00-12:00,Hall C,100
+CSE303,Computer Science,2nd Year,3rd Semester,Discrete Mathematics,End Term,1/22/2024,09:00-12:00,Hall D,100
+ECE303,Electronics,2nd Year,3rd Semester,Electronic Measurements,End Term,1/23/2024,09:00-12:00,Hall E,100
+ME302,Mechanical,2nd Year,3rd Semester,Material Science,End Term,1/24/2024,09:00-12:00,Hall F,100
+CSE403,Computer Science,2nd Year,4th Semester,Theory of Computation,End Term,6/22/2024,09:00-12:00,Hall D,100
+ECE403,Electronics,2nd Year,4th Semester,Antenna Theory,End Term,6/23/2024,09:00-12:00,Hall E,100
+ME402,Mechanical,2nd Year,4th Semester,Manufacturing Processes,End Term,6/24/2024,09:00-12:00,Hall F,100

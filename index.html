@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Helpdesk Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">🎓 Student Helpdesk Chatbot</div>
+        <div class="chat-box" id="chat-box"></div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Type your message here...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <!-- Modal to set user context -->
+    <div class="modal" id="context-modal">
+        <div class="modal-content">
+            <h2>Let's get started!</h2>
+            <label>Course Code:</label>
+            <input type="text" id="course-code" placeholder="e.g. CSE101">
+            <label>Year:</label>
+            <input type="text" id="year" placeholder="e.g. 1st Year">
+            <button onclick="submitContext()">Start Chat</button>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
+

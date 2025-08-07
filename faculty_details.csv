@@ -1,0 +1,18 @@
+Name,Department,Designation,Email,Office,Phone_Extension,Office_Hours
+Dr. Smith,Computer Science,Associate Professor,smith@university.edu,CS-101,1001,Mon/Wed 13:00-14:00
+Dr. Johnson,Mathematics,Professor,johnson@university.edu,MA-201,1002,Tue/Thu 11:00-12:00
+Prof. Williams,Computer Science,Assistant Professor,williams@university.edu,CS-102,1003,Mon/Fri 15:30-16:30
+Dr. Brown,Electronics,Professor,brown@university.edu,EC-101,1004,Tue/Thu 13:00-14:00
+Dr. Davis,Physics,Associate Professor,davis@university.edu,PH-101,1005,Wed/Fri 11:00-12:00
+Prof. Miller,Electronics,Assistant Professor,miller@university.edu,EC-102,1006,Mon/Wed 15:30-16:30
+Dr. Wilson,Mechanical,Professor,wilson@university.edu,ME-101,1007,Tue/Thu 15:30-16:30
+Prof. Taylor,Mechanical,Associate Professor,taylor@university.edu,ME-102,1008,Mon/Wed 11:00-12:00
+Prof. Clark,Mechanical,Assistant Professor,clark@university.edu,ME-103,1009,Tue/Thu 13:00-14:00
+Dr. Anderson,Computer Science,Professor,anderson@university.edu,CS-201,1010,Mon/Fri 11:00-12:00
+Prof. Thomas,Computer Science,Associate Professor,thomas@university.edu,CS-202,1011,Wed/Fri 13:00-14:00
+Dr. Martin,Electronics,Professor,martin@university.edu,EC-201,1012,Tue/Thu 11:00-12:00
+Prof. White,Electronics,Associate Professor,white@university.edu,EC-202,1013,Mon/Wed 13:00-14:00
+Dr. Lee,Computer Science,Professor,lee@university.edu,CS-301,1014,Tue/Thu 15:30-16:30
+Prof. Garcia,Computer Science,Assistant Professor,garcia@university.edu,CS-302,1015,Wed/Fri 15:30-16:30
+Dr. Thompson,Computer Science,Professor,thompson@university.edu,CS-401,1016,Mon/Fri 13:00-14:00
+Prof. Rodriguez,Computer Science,Associate Professor,rodriguez@university.edu,CS-402,1017,Tue/Thu 11:00-12:00

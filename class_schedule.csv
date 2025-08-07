@@ -1,0 +1,41 @@
+Course,Branch,Year,Semester,Day,Subject,Time,Room,Faculty
+CSE101,Computer Science,1st Year,1st Semester,Monday,Introduction to Programming,09:00-10:30,Room 101,Dr. Smith
+CSE101,Computer Science,1st Year,1st Semester,Monday,Mathematics-I,10:45-12:15,Room 102,Dr. Johnson
+CSE101,Computer Science,1st Year,1st Semester,Monday,Digital Logic,14:00-15:30,Lab 1,Prof. Williams
+CSE101,Computer Science,1st Year,1st Semester,Tuesday,Digital Logic,09:00-10:30,Room 101,Prof. Williams
+CSE101,Computer Science,1st Year,1st Semester,Tuesday,Introduction to Programming Lab,10:45-13:45,Computer Lab 1,Dr. Smith
+CSE101,Computer Science,1st Year,1st Semester,Tuesday,Physics-I,14:00-15:30,Room 103,Dr. Davis
+CSE101,Computer Science,1st Year,1st Semester,Wednesday,Mathematics-I,09:00-10:30,Room 102,Dr. Johnson
+CSE101,Computer Science,1st Year,1st Semester,Wednesday,Introduction to Programming,10:45-12:15,Room 101,Dr. Smith
+CSE101,Computer Science,1st Year,1st Semester,Wednesday,Physics Lab,14:00-17:00,Physics Lab,Dr. Davis
+CSE101,Computer Science,1st Year,1st Semester,Thursday,Digital Logic Lab,09:00-12:00,Digital Lab,Prof. Williams
+CSE101,Computer Science,1st Year,1st Semester,Thursday,Physics-I,14:00-15:30,Room 103,Dr. Davis
+CSE101,Computer Science,1st Year,1st Semester,Friday,Mathematics-I,09:00-10:30,Room 102,Dr. Johnson
+CSE101,Computer Science,1st Year,1st Semester,Friday,Introduction to Programming,10:45-12:15,Room 101,Dr. Smith
+CSE101,Computer Science,1st Year,1st Semester,Friday,Digital Logic,14:00-15:30,Room 101,Prof. Williams
+ECE101,Electronics,1st Year,1st Semester,Monday,Basic Electronics,09:00-10:30,Room 201,Dr. Brown
+ECE101,Electronics,1st Year,1st Semester,Monday,Mathematics-I,10:45-12:15,Room 202,Dr. Johnson
+ECE101,Electronics,1st Year,1st Semester,Monday,Circuit Theory,14:00-15:30,Room 203,Prof. Miller
+ECE101,Electronics,1st Year,1st Semester,Tuesday,Circuit Theory Lab,09:00-12:00,Electronics Lab 1,Prof. Miller
+ECE101,Electronics,1st Year,1st Semester,Tuesday,Physics-I,14:00-15:30,Room 204,Dr. Davis
+ECE101,Electronics,1st Year,1st Semester,Wednesday,Basic Electronics,09:00-10:30,Room 201,Dr. Brown
+ECE101,Electronics,1st Year,1st Semester,Wednesday,Mathematics-I,10:45-12:15,Room 202,Dr. Johnson
+ECE101,Electronics,1st Year,1st Semester,Wednesday,Circuit Theory,14:00-15:30,Room 203,Prof. Miller
+ECE101,Electronics,1st Year,1st Semester,Thursday,Basic Electronics Lab,09:00-12:00,Electronics Lab 2,Dr. Brown
+ECE101,Electronics,1st Year,1st Semester,Thursday,Physics-I,14:00-15:30,Room 204,Dr. Davis
+ECE101,Electronics,1st Year,1st Semester,Friday,Mathematics-I,09:00-10:30,Room 202,Dr. Johnson
+ECE101,Electronics,1st Year,1st Semester,Friday,Basic Electronics,10:45-12:15,Room 201,Dr. Brown
+ECE101,Electronics,1st Year,1st Semester,Friday,Physics Lab,14:00-17:00,Physics Lab,Dr. Davis
+ME101,Mechanical,1st Year,1st Semester,Monday,Engineering Mechanics,09:00-10:30,Room 301,Dr. Wilson
+ME101,Mechanical,1st Year,1st Semester,Monday,Mathematics-I,10:45-12:15,Room 302,Dr. Johnson
+ME101,Mechanical,1st Year,1st Semester,Monday,Engineering Drawing,14:00-15:30,Drawing Hall,Prof. Taylor
+ME101,Mechanical,1st Year,1st Semester,Tuesday,Workshop Practice,09:00-12:00,Workshop,Prof. Clark
+ME101,Mechanical,1st Year,1st Semester,Tuesday,Physics-I,14:00-15:30,Room 303,Dr. Davis
+ME101,Mechanical,1st Year,1st Semester,Wednesday,Engineering Mechanics,09:00-10:30,Room 301,Dr. Wilson
+ME101,Mechanical,1st Year,1st Semester,Wednesday,Mathematics-I,10:45-12:15,Room 302,Dr. Johnson
+ME101,Mechanical,1st Year,1st Semester,Wednesday,Engineering Drawing,14:00-15:30,Drawing Hall,Prof. Taylor
+ME101,Mechanical,1st Year,1st Semester,Thursday,Engineering Mechanics Lab,09:00-12:00,Mechanics Lab,Dr. Wilson
+ME101,Mechanical,1st Year,1st Semester,Thursday,Physics-I,14:00-15:30,Room 303,Dr. Davis
+ME101,Mechanical,1st Year,1st Semester,Friday,Mathematics-I,09:00-10:30,Room 302,Dr. Johnson
+ME101,Mechanical,1st Year,1st Semester,Friday,Workshop Practice,10:45-13:45,Workshop,Prof. Clark
+ME101,Mechanical,1st Year,1st Semester,Friday,Physics Lab,14:00-17:00,Physics Lab,Dr. Davis

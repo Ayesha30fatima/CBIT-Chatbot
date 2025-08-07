@@ -1,0 +1,35 @@
+lab_name,course_code,program_list
+Advanced Databases and Soft Computing Lab,23CSC107,"1. Implement the following programs
+2. Design a database application using object relational database
+3. Design a database application using persistent programming language
+4. Design a database application using hibernate
+5. Create XML database and write queries using XQuery and XPath
+6. Implement relational algebra operations:
+   a. Selection operation
+   b. Hass Join
+   c. Merge Join
+7. Implement parallel join and parallel sorting
+8. Use visualization tools to draw query plans
+9. Using Hadoop for counting word frequency with Map Reduce
+10. Write a Map Reduce Application which processes a log file of a system
+11. Implement Simple Neural Network (McCulloh-Pitts) for AND/OR
+12. Perceptron network for OR and NAND
+13. ANDNOT using ADALINE network
+14. XOR using MADALINE network
+15. Back Propagation Algorithm for non-linear network
+16. Implement Hopfield Network"
+Big Data Analytics Lab,23CSE122,"1. Install Hadoop Framework and study ecosystem
+2. Word count using MapReduce
+3. Matrix multiplication using MapReduce/PySpark
+4. Install and run NoSQL DBs: MongoDB/Cassandra/HBase
+5. DGIM algorithm / Bloom Filter implementation
+6. Streaming Data Analysis: flume, PYSpark/HIVE on twitter/chat data
+7. Clustering (K-Means/CURE) using Map-Reduce
+8. Page Rank Algorithm using Map-Reduce"
+Mini Project with Seminar,23CSC108,"1. 3-4 weeks reading + 12 weeks research + presentation
+2. Faculty supervisor monitoring
+3. Choose topic to demonstrate research competence
+4. Project must be disciplinary/industry relevant
+5. Can be mathematical modeling, experimental, or numerical
+6. State and document objectives, techniques, results, discussion, and conclusions
+7. Must include background, literature review, deliverables, references"

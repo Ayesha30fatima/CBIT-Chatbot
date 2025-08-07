@@ -1,0 +1,25 @@
+Course,Branch,Year,Semester,Subject,Exam_Type,Date,Time,Venue,Max_Marks
+CSE101,Computer Science,1st Year,1st Semester,Introduction to Programming,Mid Term,2024-02-15,09:00-11:00,Hall A,50
+CSE101,Computer Science,1st Year,1st Semester,Mathematics-I,Mid Term,2024-02-17,09:00-11:00,Hall B,50
+CSE101,Computer Science,1st Year,1st Semester,Digital Logic,Mid Term,2024-02-19,09:00-11:00,Hall A,50
+CSE101,Computer Science,1st Year,1st Semester,Physics-I,Mid Term,2024-02-21,09:00-11:00,Hall B,50
+ECE101,Electronics,1st Year,1st Semester,Basic Electronics,Mid Term,2024-02-15,14:00-16:00,Hall C,50
+ECE101,Electronics,1st Year,1st Semester,Mathematics-I,Mid Term,2024-02-17,14:00-16:00,Hall A,50
+ECE101,Electronics,1st Year,1st Semester,Circuit Theory,Mid Term,2024-02-19,14:00-16:00,Hall B,50
+ECE101,Electronics,1st Year,1st Semester,Physics-I,Mid Term,2024-02-21,14:00-16:00,Hall C,50
+ME101,Mechanical,1st Year,1st Semester,Engineering Mechanics,Mid Term,2024-02-16,09:00-11:00,Hall A,50
+ME101,Mechanical,1st Year,1st Semester,Mathematics-I,Mid Term,2024-02-18,09:00-11:00,Hall B,50
+ME101,Mechanical,1st Year,1st Semester,Engineering Drawing,Mid Term,2024-02-20,09:00-11:00,Hall C,50
+ME101,Mechanical,1st Year,1st Semester,Physics-I,Mid Term,2024-02-22,09:00-11:00,Hall A,50
+CSE101,Computer Science,1st Year,1st Semester,Introduction to Programming,End Term,2024-04-15,09:00-12:00,Hall A,100
+CSE101,Computer Science,1st Year,1st Semester,Mathematics-I,End Term,2024-04-17,09:00-12:00,Hall B,100
+CSE101,Computer Science,1st Year,1st Semester,Digital Logic,End Term,2024-04-19,09:00-12:00,Hall A,100
+CSE101,Computer Science,1st Year,1st Semester,Physics-I,End Term,2024-04-21,09:00-12:00,Hall B,100
+ECE101,Electronics,1st Year,1st Semester,Basic Electronics,End Term,2024-04-15,14:00-17:00,Hall C,100
+ECE101,Electronics,1st Year,1st Semester,Mathematics-I,End Term,2024-04-17,14:00-17:00,Hall A,100
+ECE101,Electronics,1st Year,1st Semester,Circuit Theory,End Term,2024-04-19,14:00-17:00,Hall B,100
+ECE101,Electronics,1st Year,1st Semester,Physics-I,End Term,2024-04-21,14:00-17:00,Hall C,100
+ME101,Mechanical,1st Year,1st Semester,Engineering Mechanics,End Term,2024-04-16,09:00-12:00,Hall A,100
+ME101,Mechanical,1st Year,1st Semester,Mathematics-I,End Term,2024-04-18,09:00-12:00,Hall B,100
+ME101,Mechanical,1st Year,1st Semester,Engineering Drawing,End Term,2024-04-20,09:00-12:00,Hall C,100
+ME101,Mechanical,1st Year,1st Semester,Physics-I,End Term,2024-04-22,09:00-12:00,Hall A,100
